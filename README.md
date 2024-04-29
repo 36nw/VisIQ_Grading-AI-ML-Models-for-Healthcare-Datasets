@@ -31,7 +31,7 @@ The product utilizes industry-wide used open-source neural network algorithms fo
   - ResNet18
   - VGG-16 
   - AlexNet
-  - GoogLeNet
+  - InceptionV3
   - MnasNet
   - ResNet-50
 
